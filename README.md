@@ -1,16 +1,29 @@
-## Hi there 👋
+## ¡Hola a todos! 👋
 
-<!--
-**mflores49/mflores49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+### ¿Quién eres?
+Soy Marcela Flores Ponce, profesional enfocada al área de la Geociencias, donde la curiosidad y la tecnología permitió especializarme en el área de la ciencia y análisis de datos geoespaciales, dispuestos para su uso, consumo y poblamiento tanto en computadores, dispositivos móviles y páginas web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Un buen resultado es aquel que puede ser publicado y aplicado de modo dinámico e interoperable. Me encanta aprender nuevas tecnologías y aplicar mis habilidades para resolver problemas interesantes.
+
+### ¿De dónde eres?
+Soy de Puerto Montt, región de Los Lagos. 
+
+### ¿A qué te dedicas?
+Actualmente me dedico a desarrollar aplicativos y/o sistemas de gestión de información geoespaciales en línea con tecnología Open Source. Mi convicción es de integrar información geoespacial de calidad como apoyo para la mejora en la toma de decisiones o temas de interés. 
+
+### ¿Cuál es tu formación?
+Soy Ingeniero Geomensor, Magíster en Gobierno, Políticas Públicas y Territorio con amplia experiencia en las áreas de la geomática y geociencias. Mi pasión por las ciencias de la tierra y la tecnología me ha llevado a especializarme en el análisis e integración de datos geoespaciales y lenguajes de programación.
+
+### ¿Cuáles son tus experiencias previas?
+A lo largo de mi carrera, he desarrollado una sólida experiencia en la gobernanza e integración de la gestión de datos (TI), especializándome en procesos de modelado de datos, relaciones y estructuras para consultas generales y  aplicaciones específicas del terriorio. He aplicado estos conocimientos en el contexto de organizaciones públicas, donde he contribuido a la gestión, planificación, coordinación, ejecución y seguimiento de políticas públicas y diversas temáticas territoriales.
+
+### ¿Cómo y a través de qué medios te pueden contactar?
+Puedes contactarme a través de:
+- **Correo electrónico**: [estandarsig@gmail.com]
+- **LinkedIn**: [https://cl.linkedin.com/in/marcela-flores-ponce-50763a40]
+
+
+
+¡Gracias por visitar mi perfil de GitHub! 
