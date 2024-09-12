@@ -1,4 +1,4 @@
-## Hola Marcela Flores Ponce! 👋
+## Hola 👋, soy Marcela Flores Ponce
 
 Bienvenidos a mi perfil de GitHub.
 
