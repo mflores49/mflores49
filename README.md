@@ -8,7 +8,7 @@ Soy Marcela Flores Ponce, profesional enfocada al área de la Geociencias, donde
 Un buen resultado es aquel que puede ser publicado y aplicado de modo dinámico e interoperable.
 
 ### ¿De dónde eres?
-Soy de Puerto Montt, región de Los Lagos. 
+Soy de Santiago, región Metropolitana de Santiago. 
 
 ### ¿A qué te dedicas?
 Actualmente me dedico a desarrollar aplicativos y/o sistemas de gestión de información geoespaciales en línea con tecnología Open Source. Mi convicción es la de integrar información geoespacial de calidad como apoyo a la toma de decisiones o temas de interés. 
